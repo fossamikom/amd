@@ -1,4 +1,7 @@
-AMD-AMIKOM MATERI DOWNLOADER
+===============================================================================
+AMD-AMIKOM MATERI DOWNLOADER <br>
+===============================================================================<br>
+
 Kekurangan Aplikasi ini:
 1. Tidak Bisa diGunakan untuk Dosen yang mensetting Materinya Private
 Option:
@@ -10,6 +13,13 @@ Cara Makenya:
 4. Klik Download
 5. Option : Kamu dapat ganti Folder Downloadnya sesuka kamu di menu Option
 
+================================================================================
+Module yang dipakai
+================================================================================
+
+1. PyQt4 (ubuntu user can install : #apt-get install python-qt4
+2. BeautifulSoup (ubuntu user can install : #easy_install BeautifulSoup
+3. sys, mechanize, cookielib, webbrowser, urllib2, urllib, subprocess, time, os
 ================================================================================
 
 Crew:
@@ -24,4 +34,5 @@ Herman (@hermansiregar) yang dari kemaren gue rusuhin terus :D
 All member of FOSSIL AMIKOM, :D
 dan semuanya yang uda support, sampai aplikasi ini selesai :D 
 
+================================================================================
 -2012
