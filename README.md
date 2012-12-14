@@ -21,18 +21,24 @@ Module yang dipakai <br>
 3. sys, mechanize, cookielib, webbrowser, urllib2, urllib, subprocess, time, os <br>
 <br>
 ================================================================================ <br>
+<br>
+Crew: <br>
+Rizqon Sadida (@rizqonsadida) as Programmer <br>
+Rangga SeptyoWijaya (@ranggaseptyo) as Design Artist <br>
+<br>
+thank's to: <br>
+Robbyn Rahmandaru (@robzlabz) yang uda nyumbang ide. :D <br>
+Rian Eka Putra (@rianekaputra) kamarnya gue pake bua lembur, :D <br>
+Ghozi Fadli (@ghost21) yang uda nraktir pizza, (jadi tambah semangat) :D <br>
+Herman (@hermansiregar) yang dari kemaren gue rusuhin terus :D <br>
+All member of FOSSIL AMIKOM, :D <br>
+dan semuanya yang uda support, sampai aplikasi ini selesai :D <br> 
+<br>
+================================================================================ <br>
+Bug <br>
+================================================================================ <br>
+Submit bug at : https://www.facebook.com/rizqon.sadida <br>
+Or Fork, commit , and push this repo.<br>
+================================================================================ <br>
+2012 
 
-Crew:
-Rizqon Sadida (@rizqonsadida) as Programmer
-Rangga SeptyoWijaya (@ranggaseptyo) as Design Artist
-
-thank's to:
-Robbyn Rahmandaru (@robzlabz) yang uda nyumbang ide. :D
-Rian Eka Putra (@rianekaputra) kamarnya gue pake bua lembur, :D
-Ghozi Fadli (@ghost21) yang uda nraktir pizza, (jadi tambah semangat) :D
-Herman (@hermansiregar) yang dari kemaren gue rusuhin terus :D
-All member of FOSSIL AMIKOM, :D
-dan semuanya yang uda support, sampai aplikasi ini selesai :D 
-
-================================================================================
--2012
