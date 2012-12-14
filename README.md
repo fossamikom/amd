@@ -1,25 +1,26 @@
 ===============================================================================<br>
-AMD-AMIKOM MATERI DOWNLOADER <br>
+                          AMD-AMIKOM MATERI DOWNLOADER <br>
 ===============================================================================<br>
 
 Kekurangan Aplikasi ini: <br>
-1. Tidak Bisa diGunakan untuk Dosen yang mensetting Materinya Private<br>
-Semua Materi yang di Download secara default ada di Folder Materi
+1. Tidak Bisa diGunakan untuk Dosen yang mensetting Materinya Private <br>
+
 Cara Menggunakan : <br>
-1. Login
-2. pilih Dosennya
-3. Pilih Materinya
-4. Klik Download
-5. Option : Kamu dapat ganti Folder Downloadnya sesuka kamu di menu Option
-
-================================================================================
-Module yang dipakai
-================================================================================
-
-1. PyQt4 (ubuntu user can install : #apt-get install python-qt4
-2. BeautifulSoup (ubuntu user can install : #easy_install BeautifulSoup
-3. sys, mechanize, cookielib, webbrowser, urllib2, urllib, subprocess, time, os
-================================================================================
+1. Login <br>
+2. pilih Dosennya <br>
+3. Pilih Materinya <br>
+4. Klik Download <br>
+5. Option : Kamu dapat ganti Folder Downloadnya sesuka kamu di menu Option <br>
+<br>
+================================================================================ <br>
+Module yang dipakai <br>
+================================================================================ <br>
+<br>
+1. PyQt4 (ubuntu user can install : #apt-get install python-qt4 <br>
+2. BeautifulSoup (ubuntu user can install : #easy_install BeautifulSoup <br>
+3. sys, mechanize, cookielib, webbrowser, urllib2, urllib, subprocess, time, os <br>
+<br>
+================================================================================ <br>
 
 Crew:
 Rizqon Sadida (@rizqonsadida) as Programmer
