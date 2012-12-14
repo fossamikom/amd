@@ -1,12 +1,11 @@
-===============================================================================
+===============================================================================<br>
 AMD-AMIKOM MATERI DOWNLOADER <br>
 ===============================================================================<br>
 
-Kekurangan Aplikasi ini:
-1. Tidak Bisa diGunakan untuk Dosen yang mensetting Materinya Private
-Option:
+Kekurangan Aplikasi ini: <br>
+1. Tidak Bisa diGunakan untuk Dosen yang mensetting Materinya Private<br>
 Semua Materi yang di Download secara default ada di Folder Materi
-Cara Makenya:
+Cara Menggunakan : <br>
 1. Login
 2. pilih Dosennya
 3. Pilih Materinya
